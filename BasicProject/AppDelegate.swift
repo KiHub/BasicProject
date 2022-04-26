@@ -41,7 +41,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         checkFirstLaunch()
         
-        window?.rootViewController = onboardingContainerViewController
+     //   window?.rootViewController = onboardingContainerViewController
         
         return true
     }
